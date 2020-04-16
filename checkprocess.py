@@ -627,7 +627,7 @@ def checkfile(url):
 
 if __name__ == "__main__":
 
-  url = 'http://182.148.157.242:9200/auditbeat-*/_search?'
+  url = 'http://your_ip_address:9200/auditbeat-*/_search?'
   main()
 
   
