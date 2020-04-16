@@ -625,10 +625,9 @@ def checkfile(url):
 
   time.sleep(10)
 
-
 if __name__ == "__main__":
 
-	url = 'http://your_ip_address:9200/auditbeat-*/_search?'
+  url = 'http://182.148.157.242:9200/auditbeat-*/_search?'
   main()
 
   
